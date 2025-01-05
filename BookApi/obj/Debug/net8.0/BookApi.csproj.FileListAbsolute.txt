@@ -1,0 +1,54 @@
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.exe
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.deps.json
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.runtimeconfig.json
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.dll
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.pdb
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.AssemblyInfoInputs.cache
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.AssemblyInfo.cs
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.BookApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.build.BookApi.props
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookApi.props
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookApi.props
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\scopedcss\bundle\BookApi.styles.css
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.dll
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\refint\BookApi.dll
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.pdb
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.genruntimeconfig.cache
+C:\Users\ARYAN KUMAR\source\repos\BookApi\BookApi\obj\Debug\net8.0\ref\BookApi.dll
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\appsettings.Development.json
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\appsettings.json
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.staticwebassets.endpoints.json
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.exe
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.deps.json
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.runtimeconfig.json
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.dll
+D:\repos\BookApi\BookApi\bin\Debug\net8.0\BookApi.pdb
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.AssemblyInfoInputs.cache
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.AssemblyInfo.cs
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.csproj.CoreCompileInputs.cache
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\scopedcss\bundle\BookApi.styles.css
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.BookApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.BookApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.build.BookApi.props
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookApi.props
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookApi.props
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.dll
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\refint\BookApi.dll
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.pdb
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\BookApi.genruntimeconfig.cache
+D:\repos\BookApi\BookApi\obj\Debug\net8.0\ref\BookApi.dll
